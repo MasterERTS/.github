@@ -1,5 +1,5 @@
 ---
-name: ":bug: Bug Report"
+name: "\U0001F41B Bug Report"
 about: "Something is not working!"
 title: ''
 labels: 'i: bug, i: help wanted'

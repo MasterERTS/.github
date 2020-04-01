@@ -1,6 +1,6 @@
 ---
-name: ":books: Bug Report"
-about: "Something is not working!"
+name: "\U0001F4DA Bug Report"
+about: "You should read this."
 title: ''
 labels: 'i: documentation'
 assignees: ''
