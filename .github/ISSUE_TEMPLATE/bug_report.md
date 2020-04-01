@@ -1,3 +1,11 @@
+---
+name: ":bug: Bug Report"
+about: "Something is not working!"
+title: ''
+labels: 'i: bug, i: help wanted'
+assignees: ''
+---
+
 <!--- Provide a general summary of the issue in the Title above -->
 
 ## Expected Behavior
