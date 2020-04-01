@@ -1,2 +1,1 @@
-# .github
-Default GitHub and community health files for repositories in the ERTS Robotics Lab.
+Common GitHub and community templates for repositories such as Issues, Pull Requests...
