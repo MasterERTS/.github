@@ -1,5 +1,5 @@
 ---
-name: "\U0001F4DA Bug Report"
+name: "\U0001F4DA Documentation Suggestion"
 about: "You should read this."
 title: ''
 labels: 'i: documentation'
